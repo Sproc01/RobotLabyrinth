@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0BA63634-7D3D-4E51-BAF6-1828E389AB5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0BA63634-7D3D-4E51-BAF6-1828E389AB5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>660522154.62493706</real>
+			<key>timeStoppedRecording</key>
+			<real>660522155.23310196</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>0BA63634-7D3D-4E51-BAF6-1828E389AB5E</string>
+		</dict>
+		<key>26F034B1-BAD4-4AAB-90C7-2D2907C12397</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>26F034B1-BAD4-4AAB-90C7-2D2907C12397.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>660521720.24697995</real>
+			<key>timeStoppedRecording</key>
+			<real>660521720.30193698</real>
+			<key>title</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>26F034B1-BAD4-4AAB-90C7-2D2907C12397</string>
+		</dict>
+		<key>5EC96771-2ECE-4663-A2A0-39CBBA55A4EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5EC96771-2ECE-4663-A2A0-39CBBA55A4EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>660522422.43782794</real>
+			<key>timeStoppedRecording</key>
+			<real>660522422.49409997</real>
+			<key>title</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5EC96771-2ECE-4663-A2A0-39CBBA55A4EF</string>
+		</dict>
+		<key>80FDBF90-4554-42DC-A77D-AE14481AB0F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>80FDBF90-4554-42DC-A77D-AE14481AB0F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>660522155.39128006</real>
+			<key>timeStoppedRecording</key>
+			<real>660522155.76322901</real>
+			<key>title</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>80FDBF90-4554-42DC-A77D-AE14481AB0F1</string>
+		</dict>
+		<key>C98DBC29-961D-4F46-9B0C-E8FF6218325C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C98DBC29-961D-4F46-9B0C-E8FF6218325C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>RobotLabyrinth Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>660522155.28253305</real>
+			<key>timeStoppedRecording</key>
+			<real>660522155.38461804</real>
+			<key>title</key>
+			<string>RobotLabyrinth Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>C98DBC29-961D-4F46-9B0C-E8FF6218325C</string>
+		</dict>
+		<key>E4012738-5D19-4A2F-84F6-94B00A657B1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E4012738-5D19-4A2F-84F6-94B00A657B1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>660522155.28168499</real>
+			<key>timeStoppedRecording</key>
+			<real>660522155.445539</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>E4012738-5D19-4A2F-84F6-94B00A657B1F</string>
+		</dict>
+		<key>FEBA0664-8CCE-455E-AB80-5A8876D4CCB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FEBA0664-8CCE-455E-AB80-5A8876D4CCB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>660522393.46486998</real>
+			<key>timeStoppedRecording</key>
+			<real>660522393.54016399</real>
+			<key>title</key>
+			<string>RobotLabyrinth Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FEBA0664-8CCE-455E-AB80-5A8876D4CCB3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

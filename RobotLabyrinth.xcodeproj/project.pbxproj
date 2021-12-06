@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		F799AE52275B6E0F0069E171 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F799AE51275B6E0F0069E171 /* main.cpp */; };
+		F799AE60275B6E8E0069E171 /* Maze.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F799AE5A275B6E8E0069E171 /* Maze.cpp */; };
+		F799AE61275B6E8E0069E171 /* RightHandRuleRobot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F799AE5B275B6E8E0069E171 /* RightHandRuleRobot.cpp */; };
+		F799AE62275B6E8E0069E171 /* RandomRobot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F799AE5E275B6E8E0069E171 /* RandomRobot.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +26,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F792AE3A275BFB1800C1A040 /* Position.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Position.h; sourceTree = "<group>"; };
 		F799AE4E275B6E0F0069E171 /* RobotLabyrinth */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RobotLabyrinth; sourceTree = BUILT_PRODUCTS_DIR; };
 		F799AE51275B6E0F0069E171 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F799AE59275B6E8E0069E171 /* RandomRobot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RandomRobot.h; sourceTree = "<group>"; };
+		F799AE5A275B6E8E0069E171 /* Maze.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Maze.cpp; sourceTree = "<group>"; };
+		F799AE5B275B6E8E0069E171 /* RightHandRuleRobot.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RightHandRuleRobot.cpp; sourceTree = "<group>"; };
+		F799AE5C275B6E8E0069E171 /* RightHandRuleRobot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightHandRuleRobot.h; sourceTree = "<group>"; };
+		F799AE5D275B6E8E0069E171 /* Maze.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Maze.h; sourceTree = "<group>"; };
+		F799AE5E275B6E8E0069E171 /* RandomRobot.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RandomRobot.cpp; sourceTree = "<group>"; };
+		F799AE5F275B6E8E0069E171 /* Robot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Robot.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +52,7 @@
 		F799AE45275B6E0F0069E171 = {
 			isa = PBXGroup;
 			children = (
+				F799AE58275B6E8E0069E171 /* Library */,
 				F799AE50275B6E0F0069E171 /* RobotLabyrinth */,
 				F799AE4F275B6E0F0069E171 /* Products */,
 			);
@@ -60,6 +72,21 @@
 				F799AE51275B6E0F0069E171 /* main.cpp */,
 			);
 			path = RobotLabyrinth;
+			sourceTree = "<group>";
+		};
+		F799AE58275B6E8E0069E171 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				F799AE59275B6E8E0069E171 /* RandomRobot.h */,
+				F799AE5A275B6E8E0069E171 /* Maze.cpp */,
+				F799AE5B275B6E8E0069E171 /* RightHandRuleRobot.cpp */,
+				F799AE5C275B6E8E0069E171 /* RightHandRuleRobot.h */,
+				F799AE5D275B6E8E0069E171 /* Maze.h */,
+				F799AE5E275B6E8E0069E171 /* RandomRobot.cpp */,
+				F799AE5F275B6E8E0069E171 /* Robot.h */,
+				F792AE3A275BFB1800C1A040 /* Position.h */,
+			);
+			path = Library;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +146,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F799AE60275B6E8E0069E171 /* Maze.cpp in Sources */,
+				F799AE61275B6E8E0069E171 /* RightHandRuleRobot.cpp in Sources */,
 				F799AE52275B6E0F0069E171 /* main.cpp in Sources */,
+				F799AE62275B6E8E0069E171 /* RandomRobot.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

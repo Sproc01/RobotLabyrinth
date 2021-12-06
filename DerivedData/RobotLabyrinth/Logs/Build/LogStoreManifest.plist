@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>06D014B3-68B4-43C5-B5A0-C1603901AC48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>06D014B3-68B4-43C5-B5A0-C1603901AC48.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RobotLabyrinth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RobotLabyrinth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RobotLabyrinth</string>
+			<key>timeStartedRecording</key>
+			<real>660522344.62818301</real>
+			<key>timeStoppedRecording</key>
+			<real>660522344.66229403</real>
+			<key>title</key>
+			<string>Build RobotLabyrinth</string>
+			<key>uniqueIdentifier</key>
+			<string>06D014B3-68B4-43C5-B5A0-C1603901AC48</string>
+		</dict>
+		<key>0DB89CB4-938A-45F7-8A5A-CC315430AFEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DB89CB4-938A-45F7-8A5A-CC315430AFEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RobotLabyrinth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RobotLabyrinth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RobotLabyrinth</string>
+			<key>timeStartedRecording</key>
+			<real>660522292.24246001</real>
+			<key>timeStoppedRecording</key>
+			<real>660522292.30407298</real>
+			<key>title</key>
+			<string>Build RobotLabyrinth</string>
+			<key>uniqueIdentifier</key>
+			<string>0DB89CB4-938A-45F7-8A5A-CC315430AFEA</string>
+		</dict>
+		<key>13BC92BA-48E8-48F3-AF22-09D9219A81C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13BC92BA-48E8-48F3-AF22-09D9219A81C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RobotLabyrinth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RobotLabyrinth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RobotLabyrinth</string>
+			<key>timeStartedRecording</key>
+			<real>660522425.87367702</real>
+			<key>timeStoppedRecording</key>
+			<real>660522432.267573</real>
+			<key>title</key>
+			<string>Build RobotLabyrinth</string>
+			<key>uniqueIdentifier</key>
+			<string>13BC92BA-48E8-48F3-AF22-09D9219A81C3</string>
+		</dict>
+		<key>7E4E56D6-1B61-46D5-9E14-54D9C099FE8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E4E56D6-1B61-46D5-9E14-54D9C099FE8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RobotLabyrinth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RobotLabyrinth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RobotLabyrinth</string>
+			<key>timeStartedRecording</key>
+			<real>660521811.95151198</real>
+			<key>timeStoppedRecording</key>
+			<real>660521811.98962903</real>
+			<key>title</key>
+			<string>Build RobotLabyrinth</string>
+			<key>uniqueIdentifier</key>
+			<string>7E4E56D6-1B61-46D5-9E14-54D9C099FE8C</string>
+		</dict>
+		<key>CF956240-763A-4C35-84D5-D6E5E0B78CB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF956240-763A-4C35-84D5-D6E5E0B78CB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RobotLabyrinth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RobotLabyrinth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RobotLabyrinth</string>
+			<key>timeStartedRecording</key>
+			<real>660522237.85833895</real>
+			<key>timeStoppedRecording</key>
+			<real>660522238.27137899</real>
+			<key>title</key>
+			<string>Build RobotLabyrinth</string>
+			<key>uniqueIdentifier</key>
+			<string>CF956240-763A-4C35-84D5-D6E5E0B78CB1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

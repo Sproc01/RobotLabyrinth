@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "60b922cd368d577b9fe342224be423b4add88450970dee29508e92cc0a50c246"
+    }
+  ],
+  "containerPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/RobotLabyrinth.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/DerivedData/RobotLabyrinth/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/DerivedData/RobotLabyrinth/Build/Products",
+      "derivedDataPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/DerivedData/RobotLabyrinth/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/DerivedData/RobotLabyrinth/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/michelesprocatti/Desktop/RobotLabyrinth/DerivedData/RobotLabyrinth/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
